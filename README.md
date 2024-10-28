@@ -1,4 +1,4 @@
-<h1 align="center">👋 Howdy, I'm Filip! Filip!</h1>
+<h1 align="center">👋 Howdy, I'm Filip!</h1>
 <h3 align="center">🤖 Just a coder, probably over-caffeinated, absolutely overthinking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devthefilip&label=Profile%20views&color=0e75b6&style=flat" alt="devthefilip" /> </p>
